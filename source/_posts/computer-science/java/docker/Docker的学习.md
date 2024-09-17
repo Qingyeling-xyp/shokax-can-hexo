@@ -2,7 +2,7 @@
 title: Docker的学习
 date: 2024-09-14 00:49:40
 categories:
-  - [计算机科学, Java, Dcoker]
+  - [计算机科学, Java, Docker]
 tags:
   - 后端
 ---
