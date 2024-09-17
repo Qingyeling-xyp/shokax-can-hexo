@@ -77,6 +77,9 @@ category_map:
   动漫杂谈: Anime-Discussion
   音乐: Music
 tag_map:
+  后端: java
+  前端: web
+  shoka: shoka
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
