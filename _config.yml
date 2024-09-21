@@ -72,6 +72,8 @@ category_map:
   计算机科学: computer-science
   Java: java
   Dcoker: docker
+  Redis: redis
+  Linux: linux
   Test: test
   次元阁: Dimension-Gate
   动漫杂谈: Anime-Discussion
