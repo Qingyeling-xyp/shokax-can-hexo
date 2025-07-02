@@ -8,6 +8,13 @@
 - site: QIng yeling
   owner: 清野凛
   url: https://blog.qingyeling.cn
-  desc: = QIngyeling's の 编程日记 =
-  image: https://blog.moehz.com/images/avatar.jpg
+  desc: = QIngyeling's の code =
+  image: https://blog.qingyeling.cn/assets/avatar.webp
   color: "#00BFFF"
+
+- site: BaiFei
+  owner: BaiFei
+  url: https://blog.baifei.xin/
+  desc: = 私はあなたが好きです
+  image: https://imgpub.hhhhhy.kim/57/favicon.jpg
+  color: "#DDD"

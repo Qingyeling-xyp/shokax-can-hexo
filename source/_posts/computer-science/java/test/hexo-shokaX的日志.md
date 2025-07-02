@@ -10,6 +10,10 @@ tags:
 
 # OK这里是日志
 
+## 2025/7/2  16:13
+
+更换了shokax的更新链接  fetch('https://registry.npmmirror.com/hexo-theme-shokax/latest'  原本的链接失效
+
 ## 2024/11/16 00:37
 
 添加了友链
