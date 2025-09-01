@@ -39,3 +39,9 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+# 图片测试
+
+![image-20250901170412694](image-20250901170412694.png)
+
+需要删除./hello-world/才是正确路径
